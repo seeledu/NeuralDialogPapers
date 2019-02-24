@@ -6,7 +6,8 @@ A list of papers about creating dialog systems using deep nets! **Please feel fr
     * General
     * Multidomain & Domain Adaptation
     * User Simulator
-    * Reinforcement Learning and Adversarial 
+    * Reinforcement Learning and Adversarial
+    * Dialogue Policy Learning
   * [Chat Bots](#chat-bots)
     * General
     * Retrieval Methods
@@ -107,6 +108,8 @@ A list of papers about creating dialog systems using deep nets! **Please feel fr
 * [Multimodal Hierarchical Reinforcement Learning Policy for Task-Oriented Visual Dialog](https://arxiv.org/abs/1805.03257) Jianping Zhang et al 2018
 
 * [Adversarial Learning of Task-Oriented Neural Dialog Models](https://arxiv.org/abs/1805.11762) Bing Liu et al 2018.
+
+### Dialogue Policy Learning
 
 ## Chat Bots
 ### General
