@@ -13,7 +13,7 @@ A list of papers about creating dialog systems using deep nets! **Please feel fr
     * Retrieval Methods
     * Rich Dialog Context
     * Diversity
-    * Inteprebility
+    * Interprebility
 
 ## Task Bots
 ### General 
@@ -204,7 +204,7 @@ Deep Model](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018SIGIR_Wangwenjie.
 
 * [Towards a Neural Conversation Model with Diversity Net Using Determinantal Point Processes](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17115) Yiping Song et al 2018
 
-### Inteprebility
+### Interprebility
 * [Latent intention dialogue models](https://arxiv.org/abs/1705.10229) Tsung-Hsien Wen et al., 2017
 
 * [Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation](https://arxiv.org/abs/1804.08069) Tiancheng Zhao et al., 2018
